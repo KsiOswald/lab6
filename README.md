@@ -33,8 +33,8 @@
 ### Тестирование
 
 
-!(https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.1.1.png)
-!(https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.1.2.png)
+![](https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.1.1.png)
+![](https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.1.2.png)
 
 
 
@@ -69,7 +69,7 @@
 ### Текст задачи
 
 
-!(https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/lab6.3.png)
+![](https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/lab6.3.png)
 
 
 ### Алгоритм решения
@@ -93,7 +93,7 @@
 
 ### Тестирование
 
-!(https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.2-3.1.png)
-!(https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.2-3.2.png)
-!(https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.2-3.3.png)
-!(https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.2-3.4.png)
+![](https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.2-3.1.png)
+![](https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.2-3.2.png)
+![](https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.2-3.3.png)
+![](https://github.com/KsiOswald/lab6/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B/test6.2-3.4.png)
